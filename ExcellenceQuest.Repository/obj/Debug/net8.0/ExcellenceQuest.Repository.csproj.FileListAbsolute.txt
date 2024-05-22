@@ -1,0 +1,17 @@
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\bin\Debug\net8.0\ExcellenceQuest.Repository.deps.json
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\bin\Debug\net8.0\ExcellenceQuest.Repository.runtimeconfig.json
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\bin\Debug\net8.0\ExcellenceQuest.Repository.dll
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\bin\Debug\net8.0\ExcellenceQuest.Repository.pdb
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\bin\Debug\net8.0\ExcellenceQuest.Models.dll
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\bin\Debug\net8.0\ExcellenceQuest.Models.pdb
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\obj\Debug\net8.0\ExcellenceQuest.Repository.csproj.AssemblyReference.cache
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\obj\Debug\net8.0\ExcellenceQuest.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\obj\Debug\net8.0\ExcellenceQuest.Repository.AssemblyInfoInputs.cache
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\obj\Debug\net8.0\ExcellenceQuest.Repository.AssemblyInfo.cs
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\obj\Debug\net8.0\ExcellenceQuest.Repository.csproj.CoreCompileInputs.cache
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\obj\Debug\net8.0\Excellen.25F14F45.Up2Date
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\obj\Debug\net8.0\ExcellenceQuest.Repository.dll
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\obj\Debug\net8.0\refint\ExcellenceQuest.Repository.dll
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\obj\Debug\net8.0\ExcellenceQuest.Repository.pdb
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\obj\Debug\net8.0\ExcellenceQuest.Repository.genruntimeconfig.cache
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Repository\obj\Debug\net8.0\ref\ExcellenceQuest.Repository.dll

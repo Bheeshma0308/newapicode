@@ -1,0 +1,11 @@
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Models\bin\Debug\net8.0\ExcellenceQuest.Models.deps.json
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Models\bin\Debug\net8.0\ExcellenceQuest.Models.dll
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Models\bin\Debug\net8.0\ExcellenceQuest.Models.pdb
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Models\obj\Debug\net8.0\ExcellenceQuest.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Models\obj\Debug\net8.0\ExcellenceQuest.Models.AssemblyInfoInputs.cache
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Models\obj\Debug\net8.0\ExcellenceQuest.Models.AssemblyInfo.cs
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Models\obj\Debug\net8.0\ExcellenceQuest.Models.csproj.CoreCompileInputs.cache
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Models\obj\Debug\net8.0\ExcellenceQuest.Models.dll
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Models\obj\Debug\net8.0\refint\ExcellenceQuest.Models.dll
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Models\obj\Debug\net8.0\ExcellenceQuest.Models.pdb
+C:\Users\madesh.gajula\source\repos\EQ\ExcellenceQuest.Models\obj\Debug\net8.0\ref\ExcellenceQuest.Models.dll
