@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', credentialsId: 'your-git-credentials-id', url: ''
+                git branch: 'main', credentialsId: '', url: 'https://github.com/Bheeshma0308/newapicode.git'
             }
         }
         stage('Build') {
